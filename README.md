@@ -27,7 +27,7 @@ Before running the project, make sure you have installed:
 1. Clone the Repository
 Clone the project to your local machine with:
 
- git clone https://github.com/<your-username>/simple-graphql-go.git
+ git clone https://github.com/Daniielpro/GRAPHQL.git
 
  cd simple-graphql-go
 
